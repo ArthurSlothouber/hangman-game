@@ -4,4 +4,4 @@ import { connect } from 'react-redux'
 // function that shows how many letters the word has and if a letter has been guessed correctly
 
 
-export default connect(DashedWord)
+export default DashedWord
