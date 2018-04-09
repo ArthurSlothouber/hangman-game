@@ -16,7 +16,7 @@ return filteredArray.length
     return (
           <h1 className="App-intro">Guesses Left</h1>
         // function that show how many guesses are left. Countdown from 6.
-          // {this.wrongGuessCount('hello', 6)}
+          // {this.wrongGuessCount('hello', h, i, e, d)}
 
     );
   }
