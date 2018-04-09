@@ -12,6 +12,8 @@ class App extends Component {
           <h1 className="App-title">Play The Hangman Game</h1>
         </header>
 
+          <h1 className="App-intro">Total Guesses: 6</h1>
+
         <GuessesLeft />
 
 
